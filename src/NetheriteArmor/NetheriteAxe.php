@@ -14,7 +14,7 @@ class NetheriteAxe extends Tool
 
     public function isAxe()
     {
-        return Tool::TIER_NETHERITE;
+        return Tool::TIER_DIAMOND;
     }
     
 	public function getMaxDurability() : int{
