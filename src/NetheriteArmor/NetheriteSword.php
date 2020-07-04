@@ -14,7 +14,7 @@ class NetheriteSword extends Tool
 
     public function isSword()
     {
-        return Tool::TIER_NETHERITE;
+        return Tool::TIER_DIAMOND;
     }
     
 	public function getMaxDurability() : int{
