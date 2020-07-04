@@ -2,8 +2,8 @@
 ![AddNetherite](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
-[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin which allows you to add armur and netherite tools to your server ! :grin:<br/><br/>
-[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui permet d'ajouter l'armur et les outils en netherite sur votre serveur ! :grin:
+[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin which allows you to add netherite armor and tools to your server ! :grin:<br/><br/>
+[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui permet d'ajouter l'armure et les outils en netherite sur votre serveur ! :grin:
 
 ---
 ### How to use
