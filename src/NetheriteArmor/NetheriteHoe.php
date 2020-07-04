@@ -14,7 +14,7 @@ class NetheriteHoe extends Tool
 
     public function isHoe()
     {
-        return Tool::TIER_NETHERITE;
+        return Tool::TIER_DIAMOND;
     }
     
 	public function getMaxDurability() : int{
