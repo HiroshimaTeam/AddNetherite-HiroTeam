@@ -14,7 +14,7 @@ class NetheriteShovel extends Tool
 
     public function isShovel()
     {
-        return Tool::TIER_NETHERITE;
+        return Tool::TIER_DIAMOND;
     }
     
 	public function getMaxDurability() : int{
