@@ -1,0 +1,5 @@
+name: AddNetherite-HiroTeam
+author: Mentagess
+main: HiroTeam\NetheriteArmor\Main
+version: 2.0.0
+api: ["3.0.0","3.0.2","4.0.0"]
