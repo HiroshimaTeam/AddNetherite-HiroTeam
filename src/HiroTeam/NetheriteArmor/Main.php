@@ -18,7 +18,7 @@ class Main extends PluginBase
 {
     public function onEnable()
     {
-        $this -> getLogger() -> info("§aSucces load AddNetherite");
+      
         ItemFactory ::registerItem(new NetheriteBoots(), true);
         ItemFactory ::registerItem(new NetheriteChestplate(), true);
         ItemFactory ::registerItem(new NetheriteHelmet(), true);
