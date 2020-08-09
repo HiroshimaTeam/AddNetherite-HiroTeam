@@ -27,7 +27,7 @@ class NetheritePickaxe extends Pickaxe
 
     public function getMaxDurability(): int
     {
-        return 407;
+        return 2031;
     }
 
     public function onDestroyBlock(Block $block): bool
